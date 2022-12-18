@@ -1,0 +1,74 @@
+#konu{
+    font-size: xx-large;
+    padding: 5rem;
+    color: rgb(16, 32, 8);
+}
+#yanBaslik{
+    margin: 5rem 1rem 0rem;
+    color: rgb(162, 13, 13);
+}
+#ortalama{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin-top: 2.5rem;
+}
+#vurgu{
+    font-weight: bolder;
+    color: rgb(58, 58, 2);
+    padding: 1rem;
+}
+#kirmizi{
+    color: rgb(193, 6, 6);
+}
+#ornek{
+    color: rgb(3, 3, 189);
+    margin-bottom: 1rem;
+    font-size: larger;
+    font-weight: 400;
+}
+
+#yan__yanaContainer{
+    display: flex;
+}
+#yan__yana{
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#kk{
+    color: red;
+    font-size: 36px;
+    
+}
+
+#ornekList{
+    color: black;
+}
+#dogru{
+    color: yellowgreen;
+}
+#yanlis{
+    color: red;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    border: 3px solid #CF000F;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: #413a39;
+    color:#fff;
+
+}
+table td{
+    padding: 20px;
+    font-size: 20px;
+    border: 5px solid #d9d5e9;
+}
+table th{
+    font-size: 20px;
+    padding: 15px;
+}

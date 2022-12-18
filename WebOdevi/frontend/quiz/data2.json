@@ -1,0 +1,92 @@
+{
+    "sorular":[
+        {
+            "ders": "matematik",
+            "type": "secenekli",
+            "soru": "Toplamı kaç farklı yöntemle bulabiliriz?",
+            "secenekA": "2",
+            "secenekB": "1",
+            "secenekC": "3",
+            "secenekD": "4",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "matematik",
+            "type": "doldurma",
+            "soru": "Aşağıda verilen cümledeki boşluğu doldurun ",
+            "bosluk1a": " Basamak Değerlerinden Yararlanarak",
+            "bosluk1b": " Tahmin Edebiliriz",
+            "dogruCevap": "farkı"
+        },
+        {
+            "ders": "matematik",
+            "soru": "5758 - 3242 işlemini yuvarlama yaparak farkı tahmin etme yöntemi ile yazınız.(Örn: 6000 - 3000 = 3000)",
+            "type": "txt",
+            "dogruCevap": "5760 - 3240 = 2520"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdaki kelimelerden hangisi doğru yazılmıştır?",
+            "secenekA": "alış veriş",
+            "secenekB": "ard arda",
+            "secenekC": "herkes",
+            "secenekD": "kiprik",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "turkce",
+            "type": "doldurma",
+            "soru": "Aşağıda verilen cümledeki boş bırakılan kelimeyi tamamlayınız",
+            "bosluk1a": " Yazım kurallarını",
+            "bosluk1b": " ana başlık altında incelenir",
+            "dogruCevap": "5"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi doğrudur?",
+            "secenekA": "Romen rakamları tarihî olaylarda, yüzyıllarda, hükümdar adlarında, tarihlerde ayların yazılışında, kitap ve dergi ciltlerinde, kitapların asıl bölümlerinden önceki sayfaların numaralandırılmasında, maddelerin sıralandırılmasında kullanılamaz.",
+            "secenekB": "Noktalı kısaltmalara ek getirilmediği durumda kelimenin okunuşu esas alınır. Ek, noktanın yanına yazılır.",
+            "secenekC": "Saat ve dakikalar metin içinde yazıyla da yazılabilir.",
+            "secenekD": "Ayrı yazılan “da, de”  “ta, te” biçiminde yazılabilir.",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi Enerji verici besindir?",
+            "secenekA": "Karbonhidratlar",
+            "secenekB": "Mineraller",
+            "secenekC": "Proteinler",
+            "secenekD": "Su",
+            "dogruCevap": "secenekA"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Büyüme çağında olan çocukların vücutlarının gelişip boylarının uzaması için, insanların saç ve tırnaklarının uzaması için, kırılan kemiklerimizin iyileşmesi için hangi besinleri tüketmemiz gerekir?",
+            "secenekA": "Enerji Verici Besinler",
+            "secenekB": "Bu besinlerden hiçbiri",
+            "secenekC": "Düzenleyici Besinler",
+            "secenekD": "Yapıcı-Onarıcı Besinler",
+            "dogruCevap": "secenekD"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi yanlış yazılmıştır?",
+            "secenekA": "bakımevi",
+            "secenekB": "emretmek",
+            "secenekC": "öğretmen evi",
+            "secenekD": "halletmek",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "turkce",
+            "soru": "Verileren kelimelerin doğru halini yazınız: eczahane, hastahane, pastahane, postahane? (kelimeleri virgül ile ayırıp virgülden sonra birer boşluk bırakın)",
+            "type": "txt",
+            "dogruCevap": "eczane, hastane, pastane, postane"
+        }
+    ]
+}

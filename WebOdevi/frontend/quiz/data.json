@@ -1,0 +1,90 @@
+{
+    "sorular":[
+        {
+            "ders": "matematik",
+            "type": "hesaplama",
+            "soru": "Toplama işlemi yaparken önce birler basamağındaki sayılar toplanır. Sonra onlar basamağındaki sayılar toplanır. Daha sonra yüzler basamağındaki sayılar toplanır. En sonunda da binler basamağındaki sayılar toplanır.Buna göre aşağıda verilen toplamın sonucu nedir?",
+            "hesaplamaP1": " 2160",
+            "hesaplamaP2": " 1825",
+            "dogruCevap": "3985"
+        },
+        {
+            "ders": "matematik",
+            "type": "doldurma",
+            "soru": "56 261 sayısı beş rakamdan oluşmaktadır.",
+            "bosluk1a": " Bu sayı,  ",
+            "bosluk1b": " basamaklı doğal sayıdır.",
+            "dogruCevap": "5"
+        },
+        {
+            "ders": "fen",
+            "type": "doldurma",
+            "soru": "Aşağıdaki cümlede boş bırakılan yerleri doldurun",
+            "bosluk1a": " Yer kabuğu",
+            "bosluk1b": " oluşur",
+            "dogruCevap": "kayaçlardan"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdaki cümlelerden hangisinde mecaz anlamlı kelime bulunmamaktadır?",
+            "secenekA": " Kör adama kimse yardım etmedi.",
+            "secenekB": "Ortalıkta savaş kokusu vardı.",
+            "secenekC": "Olaylara karşı kör ve sağırdır.",
+            "secenekD": "Boş sözlerle beni oyalamayın.",
+            "dogruCevap": "secenekA"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi Düşünceyi Geliştirme Yollarından biri değildir?",
+            "secenekA": "Tanımlama",
+            "secenekB": "Karşılaştırma",
+            "secenekC": "Benzetme",
+            "secenekD": "Temel Anlam",
+            "dogruCevap": "secenekD"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi Matematikdeki terimlerden biri değildir?",
+            "secenekA": "Doğal Sayılar",
+            "secenekB": "Kare",
+            "secenekC": "Polinop",
+            "secenekD": "Doğal Afetler",
+            "dogruCevap": "secenekD"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi Bor madeni kullanım alanlarından biri değildir?",
+            "secenekA": "Tekstil",
+            "secenekB": "Cam",
+            "secenekC": "Otomobil yapımı",
+            "secenekD": "Seramik sanayisi",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi Altın madeninin kullanım alanlarından biri değildir?",
+            "secenekA": "Elektrik-elektronik",
+            "secenekB": "Resmi paralarda",
+            "secenekC": "Uçak yakıtlarında",
+            "secenekD": "Diş hekimliğinde",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "matematik",
+            "soru": "Atatürk 1881'de doğdu, 1923'te Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı oldu. Atatürk'ün kaç yaşında cumhurbaşkanı olduğunu bulalım?",
+            "type": "txt",
+            "dogruCevap": "42"
+        },
+        {
+            "ders": "fen",
+            "soru": "Kayaçlar hangi katmanda bulunan magmanın yeryüzüne ulaşarak soğuyup katılaşmasıyla oluşur? (Cevabı küçük harflerle giriniz)",
+            "type": "txt",
+            "dogruCevap": "manto"
+        }
+    ]
+}

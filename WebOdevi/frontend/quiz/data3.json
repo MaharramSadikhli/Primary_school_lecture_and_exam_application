@@ -1,0 +1,90 @@
+{
+    "sorular":[
+        {
+            "ders": "matematik",
+            "soru": "Fikret, yabancı bir ülkede çalışan dayısını ziyarete giderken saatte 724 km hızla uçan bir uçakla 8 saat yolculuk yapıyor. Fikret'in gittiği ülkenin ülkemize uzaklığı kaç km'dir?",
+            "type": "txt",
+            "dogruCevap": "5792"
+        },
+        {
+            "ders": "matematik",
+            "type": "hesaplama",
+            "soru": "Aşağıda verilen çarpımın sonucunu hesaplayınız",
+            "bosluk1a": " 275",
+            "bosluk1b": " 9",
+            "dogruCevap": "2475"
+        },
+        {
+            "ders": "fen",
+            "type": "doldurma",
+            "soru": "Aşağıda verilen cümledeki boş bırakılan yerleri doldurunuz",
+            "bosluk1a": " Duran cisimleri harekete geçiren, hareket eden cisimleri durduran, cisimlerin hızında, yönünde ve şeklinde değişiklik yapabilen itme veya çekme şeklindeki etkiye",
+            "bosluk1b": " denir",
+            "dogruCevap": "kuvvet"
+        },
+        {
+            "ders": "turkce",
+            "type": "doldurma",
+            "soru": "Aşağıda verilen cümledeki boş bırakılan yerleri doldurunuz",
+            "bosluk1a": " Düşüncenin yönünü değiştiren sözcükler",
+            "bosluk1b": " olarak da adlandırılmaktadır.",
+            "dogruCevap": "geçiş ve bağlantı ifadeleri"
+        },
+        {
+            "ders": "matematik",
+            "type": "secenekli",
+            "soru": "Mihriban Hanım, 85 cevizi 6 çocuğa eşit bir şekilde paylaştırmak istiyor. Her çocuğa kaç ceviz düşer ve geriye kaç ceviz kalır?",
+            "secenekA": "0",
+            "secenekB": "1",
+            "secenekC": "2",
+            "secenekD": "3",
+            "dogruCevap": "secenekB"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "Aşağıdaki cümlelerden hangisinde Destekleyici ve Açıklayıcı ifade kullanılmıştır?",
+            "secenekA": "Kısacası artık sizinle çalışmak istemiyoruz.",
+            "secenekB": "Özetle bağlantı ifadeleri sözcükleri veya cümleleri birbirine bağlamamızı sağlar.",
+            "secenekC": "Kırk senelik çalışma hayatım sona erdi başka bir deyişle emekli oldum.",
+            "secenekD": "Dün akşam yine gelmedin oysaki geleceğine söz vermiştin.",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "turkce",
+            "type": "secenekli",
+            "soru": "“ama, fakat, lakin, yalnız, ancak, oysaki, ne var ki, halbuki, buna rağmen, yine de” tırnak içinde verilen ifadeler hangi ifade türüne dahildir?",
+            "secenekA": "Destekleyici ve Açıklayıcı İfadeler",
+            "secenekB": "Özetleyen ve Sonuç Bildiren İfadeler",
+            "secenekC": "Bunlardan hiçbiri",
+            "secenekD": "Farklı Düşünmeye Yönlendiren İfadeler",
+            "dogruCevap": "secenekD"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Aşağıdakilerden hangisi mıknatıs çeşidi değildir?",
+            "secenekA": "Çubuk Mıknatıs",
+            "secenekB": "Halka Mıknatıs",
+            "secenekC": "Dalga Mıknatıs",
+            "secenekD": "At Nalı Mıknatıs",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "fen",
+            "type": "secenekli",
+            "soru": "Hangisi doğrudur?",
+            "secenekA": "Aynı kutuplar birbirini çeker",
+            "secenekB": "Zıt kutuplar birbirini iter",
+            "secenekC": "Aynı kutuplar birbirini çeker",
+            "secenekD": "Bunlardan hiçbiri",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "ders": "6",
+            "soru": "Çubuk mıknatısı ortasından bir ip bağlayarak asarsak bir süre sonra mıknatısın bir ucu kuzeyi diğer ucu ise güneyi gösterir. (Cevap doğruysa D, yanlışsa Y yazınız)?",
+            "type": "txt",
+            "dogruCevap": "D"
+        }
+    ]
+}

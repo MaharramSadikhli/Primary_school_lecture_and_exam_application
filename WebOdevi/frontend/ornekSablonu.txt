@@ -1,0 +1,7 @@
+<p>
+    <span id="ornek">Örnekler: </span>
+    <br><br>
+    <i id="kk">»  </i>
+    <br><br><br>
+    <i id="kk">»  </i>
+</p>
